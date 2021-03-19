@@ -1,0 +1,31 @@
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  
+  .cabecalho {
+    background-color: white;
+    margin-top: 5px;
+  }
+  
+  .logo {
+    width: 120px;
+  }
+  
+  .group-icons {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .icone {
+    width: 35px;
+    margin: 10px;
+  }
+  
+  @media screen and(max-width:600px) {
+    .cabecalho {
+      display: flex;
+      flex-direction: column;
+      height: auto;
+    }
+  }

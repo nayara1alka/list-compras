@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&display=swap');
+
+html, body { height: 100%; }
+body { 
+    margin: 0; 
+    font-family: Roboto, "Helvetica Neue", sans-serif; 
+    background-color: #14244A;
+    padding: 0 5px;
+}
+.container{
+    max-width: 1000px;
+    margin:0 auto;
+    border-radius: 4px;
+}
+.titulos{
+    text-align: center;
+    color: white; 
+}

@@ -1,0 +1,98 @@
+{
+  "lista": [
+    {
+      "quantidade": 19,
+      "produto": "Produto X",
+      "marca": "Marca X",
+      "id": 1
+    },
+    {
+      "quantidade": 5,
+      "produto": "Produto X",
+      "marca": "Marca X",
+      "id": 2
+    },
+    {
+      "quantidade": 6,
+      "produto": "Produto X",
+      "marca": "Marca X",
+      "id": 3
+    },
+    {
+      "quantidade": 6,
+      "produto": "Produto X",
+      "marca": "Marca X",
+      "id": 4
+    },
+    {
+      "quantidade": 6,
+      "produto": "Produto X",
+      "marca": "Marca X",
+      "id": 5
+    },
+    {
+      "quantidade": 6,
+      "produto": "Produto X",
+      "marca": "Marca X",
+      "id": 6
+    },
+    {
+      "quantidade": 6,
+      "produto": "Produto X",
+      "marca": "Marca X",
+      "id": 7
+    },
+    {
+      "quantidade": 6,
+      "produto": "Produto X",
+      "marca": "Marca X",
+      "id": 8
+    },
+    {
+      "quantidade": 6,
+      "produto": "Produto X",
+      "marca": "Marca X",
+      "id": 9
+    },
+    {
+      "quantidade": 6,
+      "produto": "Produto X",
+      "marca": "Marca X",
+      "id": 10
+    },
+    {
+      "quantidade": 5,
+      "produto": "Produto X",
+      "marca": "Marca X",
+      "id": 11
+    },
+    {
+      "quantidade": 3,
+      "produto": "Produto X",
+      "marca": "Marca X",
+      "id": 12
+    }
+  ],
+  "imagens": [
+    {
+      "tituloImagem": "Grãos",
+      "subTituloImagem": "Café",
+      "URLimg": "https://cdn.pixabay.com/photo/2016/04/12/11/19/coffee-1324126__340.jpg"
+    },
+    {
+      "tituloImagem": "Frutas",
+      "subTituloImagem": "Morango",
+      "URLimg": "https://cdn.pixabay.com/photo/2017/11/18/17/09/strawberry-2960533__340.jpg"
+    },
+    {
+      "tituloImagem": "Padaria",
+      "subTituloImagem": "Bolo de Chocolate",
+      "URLimg": "https://cdn.pixabay.com/photo/2016/11/22/18/52/cake-1850011__340.jpg"
+    },
+    {
+      "tituloImagem": "Higiene",
+      "subTituloImagem": "Shampoo",
+      "URLimg": "https://cdn.pixabay.com/photo/2018/06/20/06/21/cosmetics-3485914__340.jpg"
+    }
+  ]
+}

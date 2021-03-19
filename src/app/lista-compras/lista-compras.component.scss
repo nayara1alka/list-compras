@@ -1,0 +1,30 @@
+table {
+    width: 100%;
+    border: 5px solid #DFE6F6;
+    border-radius: 4px;
+  }
+  
+  table td {
+    border-top: 2px solid #14244A;
+  }
+  
+  table th {
+    border-bottom: 2px solid #14244A;
+    background-color: #DFE6F6;
+  }
+  
+  .titulos {
+    font-size: 35px;
+    margin-top: 60px;
+    font-family: 'Lobster Two', cursive;
+  }
+  
+  .titulo-table {
+    color: #14244A;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  
+  .item-table {
+    color: #14244A;
+  }

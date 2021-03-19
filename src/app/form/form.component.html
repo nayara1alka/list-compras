@@ -1,0 +1,23 @@
+<h2 class="titulos">Adicionar Produtos</h2>
+<form novalidate [formGroup]="form" class="container">
+
+  <mat-form-field class="example-full-width">
+    <mat-label>Quantidade</mat-label>
+    <input matInput type="number" class="form-control" formControlName="quantidade">
+    <mat-error>Campo Obrigatório</mat-error>
+  </mat-form-field>
+
+  <mat-form-field class="example-full-width">
+    <mat-label>Produto</mat-label>
+    <input matInput class="form-control" formControlName="produto">
+    <mat-error>Campo Obrigatório</mat-error>
+  </mat-form-field>
+
+  <mat-form-field class="example-full-width">
+    <mat-label>Marca</mat-label>
+    <input matInput class="form-control" formControlName="marca">
+    <mat-error>Campo Obrigatório</mat-error>
+  </mat-form-field>
+
+  <button mat-button class="botao-submit" type="submit" (click)="onSubmit()">Salvar</button>
+</form>

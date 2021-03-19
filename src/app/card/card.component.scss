@@ -1,0 +1,31 @@
+.example-card {
+    max-width: 250px;
+    margin: 35px 10px 0 10px;
+    border: 5px solid #DFE6F6;
+  }
+  .example-header-image {
+    background-size: cover;
+  }
+  .group-cards {
+    display: flex;
+    justify-content: center;
+  }
+  .titulo-2 {
+    color: #14244A;
+  }
+  .botao-card {
+    background-color: #14244A;
+    color: white;
+    transition: 2s ease all;
+  }
+  .botao-card:hover {
+    background-color: #3057B0;
+  }
+  
+  //MEDIA QUERIES
+  @media screen and (max-width:900px) {
+    .group-cards {
+      flex-wrap: wrap;
+    }
+  
+  }
